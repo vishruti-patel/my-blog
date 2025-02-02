@@ -1,4 +1,4 @@
-# Keep It Simple
+# My Blog
 
 My technical blog for sharing ideas, documentations and proTipes. MkDocs Material framework is used for creating this repo.
 
